@@ -1,0 +1,19 @@
+div {
+  background-color: rgb(219, 248, 241);
+  display: flex;
+  width: 85%;
+  margin: auto;
+  margin-top: 30px;
+}
+p {
+  display: flex;
+  flex-direction: column;
+  color: rgb(97, 97, 97);
+  font-size: x-large;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.img-thumbnail {
+  margin-bottom: 30px;
+  margin-right: 20px;
+  width: 25%;
+}
